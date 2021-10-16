@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "directory", "lesson8\directory.csproj", "{D4A2A763-3CE8-4486-8C65-41821EFDCD4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sumInFile", "sumInFile\sumInFile.csproj", "{5B814273-75C7-4FA4-B270-83888355FD00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "staticFile", "staticFile\staticFile.csproj", "{33FE6EB4-1706-4920-8E86-320E7CB9957D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4A2A763-3CE8-4486-8C65-41821EFDCD4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4A2A763-3CE8-4486-8C65-41821EFDCD4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4A2A763-3CE8-4486-8C65-41821EFDCD4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4A2A763-3CE8-4486-8C65-41821EFDCD4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B814273-75C7-4FA4-B270-83888355FD00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B814273-75C7-4FA4-B270-83888355FD00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B814273-75C7-4FA4-B270-83888355FD00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B814273-75C7-4FA4-B270-83888355FD00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33FE6EB4-1706-4920-8E86-320E7CB9957D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33FE6EB4-1706-4920-8E86-320E7CB9957D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33FE6EB4-1706-4920-8E86-320E7CB9957D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33FE6EB4-1706-4920-8E86-320E7CB9957D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD3D1855-024C-465E-80B7-6D446B7CAB09}
+	EndGlobalSection
+EndGlobal
